@@ -7,4 +7,8 @@ Diferente de UI - User Interface, que trata do aspecto gráfico em si da aplica�
 
 ```
 Anotações sobre as leituras que fiz para elaborar o capítulo conceitos.  
+
 ```
+
+### Refereces   
+[ux4noobs](https://github.com/spacexjedi/ux4noobs)
