@@ -5,10 +5,16 @@ Compreender como um usuário se comporta utilizando serviço ou produto é primo
 E isso parte do primeiro contato, a perspectiva, ação, motivação e emoção se integram formando assim a definitiva Experiência do Usuário.
 Diferente de UI - User Interface, que trata do aspecto gráfico em si da aplicação, UX se refere aos sentimentos do usuário ao utilizar determinado produto.  
 
+Tim B Lee disse que a web precisa ser para todos.
+Existem leis que especificam o que é ser deficiente no Brasil, seja deficiência física, mental ou intelectual, como é o caso do autismo.  
+W3 o orgão que padroniza a web vem buscando formas de garantir acesso a todos, darkmode e a tag 'pra cego ver' são um exemplo dessas iniciativas.  
+
 ```
 Anotações sobre as leituras que fiz para elaborar o capítulo conceitos.  
 
-```
+```   
 
-### Refereces   
+
+### References   
 [ux4noobs](https://github.com/spacexjedi/ux4noobs)
+[livro acessibilidade na web]  
