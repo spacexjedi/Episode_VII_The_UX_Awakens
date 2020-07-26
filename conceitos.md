@@ -16,5 +16,5 @@ Anotações sobre as leituras que fiz para elaborar o capítulo conceitos.
 
 
 ### References   
-[ux4noobs](https://github.com/spacexjedi/ux4noobs)
-[livro acessibilidade na web]  
+[ux4noobs](https://github.com/spacexjedi/ux4noobs)     
+[livro acessibilidade na web](https://www.casadocodigo.com.br/products/livro-acessibilidade?_pos=1&_sid=d26374d88&_ss=r)         
