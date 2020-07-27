@@ -1,9 +1,9 @@
 # Episode_VII_The_UX_Awakens
-My monography   
+Article   
 
-Notes to help me write my college monograpy   
+Notes to help me write my homework  
 
 ```
-Projeto final:  aguardando minha universidade autorizar a publicação'   
+Projeto final:  ''   
 Code:  private for while   
 ```  
