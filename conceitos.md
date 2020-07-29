@@ -9,6 +9,12 @@ Tim B Lee disse que a web precisa ser para todos.
 Existem leis que especificam o que é ser deficiente no Brasil, seja deficiência física, mental ou intelectual, como é o caso do autismo.    
 W3 o orgão que padroniza a web vem buscando formas de garantir acesso a todos, darkmode e a tag 'pra cego ver' são um exemplo dessas iniciativas.  
 
+Deficientes visuais utilizam apenas o teclado para navegar, também precisam de leitores de tela. 
+Pessoas com baixa visão precisam que aumente a fonte sem tirar a navegabilidade do site.  
+Deficientes auditivos utilizam legendas e ferramentas de libras.  
+Deficientes físicos precisam de interfaces não convencionais, como as assistentes de voz, por exemplo.  
+Pessoas com deficiência cognitiva podem precisar de ferramentas que alteram o contraste de cores do site, estilo do texto.  
+
 ```
 Anotações sobre as leituras que fiz para elaborar o capítulo conceitos.  
 
